@@ -1,0 +1,4 @@
+
+            [console_scripts]
+            pade=pade.cli.pade_cmd:cmd
+      
